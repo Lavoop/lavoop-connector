@@ -1,12 +1,13 @@
 {
   "name": "lavoop",
   "version": "1.0.0",
-  "description": "Search open jobs from employer career sites with Lavoop, and get the employer's own link to apply.",
+  "description": "Find the jobs that are right for you. Search smarter with Lavoop, right inside your AI assistant.",
   "author": {
     "name": "Modelhive Limited",
     "url": "https://lavoop.com"
   },
   "homepage": "https://lavoop.com",
+  "privacyPolicyUrl": "https://lavoop.com/privacy.html",
   "repository": "https://github.com/lavoop/lavoop-connector",
   "keywords": ["jobs", "job-search", "careers", "tailored job search", "personalised job search"]
 }
