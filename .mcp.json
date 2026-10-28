@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lavoop": {
+      "type": "http",
+      "url": "https://lavoop.com/mcp"
+    }
+  }
+}
